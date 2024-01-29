@@ -6278,17 +6278,3 @@ Tabs.Misc:AddButton({
 		game.Players.localPlayer.PlayerGui.Main.Titles.Visible = true
 	end
 })
-
-
-
-
-
-
-tên:qwsaed1234567890helo
-mk:qwsaed1234567890
-
-tên:rincutonhatbacnghen
-mk:rin123456789
-
-tên:trandinhbaonguyen1
-mk:tamatekudasai
